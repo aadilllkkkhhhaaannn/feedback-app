@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Open+Sans:wght@300&family=Poppins:wght@200;300&family=Roboto:ital,wght@0,100;0,300;0,400;0,900;1,100;1,300&family=Titillium+Web:wght@600&family=Whisper&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+  font-family: "bold" ,;
+  * {box-sizing: border-box;}
+
+}
+img {
+  border-radius: 100px;
+}
